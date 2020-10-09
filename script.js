@@ -5,7 +5,7 @@ function numberWithCommas(x) {
 function animateValue(ob, end) {
   const obj = document.getElementById(ob);
   const start = 0;
-  const duration = 5000;
+  const duration = 8000;
   var temp = 0;
   // console.log(obj);
   let startTimestamp = null;
